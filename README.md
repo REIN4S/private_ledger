@@ -1,0 +1,9 @@
+# private_ledger
+
+## FEATURE LIST
+
+* [x] CSV LOADER
+* [x] PIE CHART
+* [ ] SPREADSHEET EDITOR
+* [ ] DATA ENCRYPTION
+* [ ] SERIES GRAPH
