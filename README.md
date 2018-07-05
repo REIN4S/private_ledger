@@ -1,9 +1,10 @@
-# private_ledger
+# Private Ledger Analizer
 
 ## FEATURE LIST
 
 * [x] CSV LOADER
 * [x] PIE CHART
-* [ ] SPREADSHEET EDITOR
-* [ ] DATA ENCRYPTION
 * [ ] SERIES GRAPH
+* [x] SPREADSHEET EDITOR
+* [ ] DATA ENCRYPTION
+* [ ] LARGE DATA LOADER
